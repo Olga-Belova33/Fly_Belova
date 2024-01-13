@@ -3,9 +3,8 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-          int cost = 12501;
+          int cost = 12701;
           int calc = 20;
             System.out.println("Начислено миль за покупку:" + (cost/calc));
         }
     }
-}
